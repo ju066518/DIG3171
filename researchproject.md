@@ -12,7 +12,8 @@ If it is easier to embed your project in an HTML file, just change the .md on th
 # Abstract
 
 	
-	This digital project used online artificial intelligence-based chatbots in order to determine if the levels of disability 
+	 
+This digital project used online artificial intelligence-based chatbots in order to determine if the levels of disability
 accommodations and general accessibility are sufficient for all members of our society. Disability, in all its different forms, affects 
 over 25% of the American population, and efforts to broaden accessibility help these people interact with aspects of society that are 
 designed with only abled people in mind (Zhao). The strive for accessibility goes back to the early 1800s with the first United States 
