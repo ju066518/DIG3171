@@ -44,5 +44,21 @@ accessible way.
 </p>
 
 <p class="works-cited">
-  Doe, Jane. "Journal Article.” <em>Journal Name</em>, vol. 15, no. 2, 2025, pp. 45–67.
+  Grewal, Lauren, and Helen van der Sluis. “Hidden Barriers to Marketplace Disability Accessibility: An Empirical Analysis of the Role of Perceived Trade-Offs.” Journal of Consumer Research, vol. 51, no. 1, 15 May 2024, pp. 66–78, https://doi.org/10.1093/jcr/ucad051. Accessed 21 Oct. 2025.
+</p>
+
+<p class="works-cited">
+  Miller, A. “Accessibility, Disability, and Inclusive Instrument Design.” The International Journal of Information, Diversity, & Inclusion (IJIDI), vol. 9, no. 1/2, 22 May 2025, pp. 87–114, https://doi.org/10.33137/ijidi.v9i1/2.43997. Accessed 21 Oct. 2025.
+</p>
+
+<p class="works-cited">
+  Campus Accessibility - Student Accessibility Services.” Student Accessibility Services, 4 Dec. 2025, access.ucf.edu/student-accessibility-services/campus-accessibility/. Accessed 27 Oct. 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
 </p>
