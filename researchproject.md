@@ -11,7 +11,18 @@ If it is easier to embed your project in an HTML file, just change the .md on th
 
 # Abstract
 
-	This digital project used online artificial intelligence-based chatbots in order to determine if the levels of disability accommodations and general accessibility are sufficient for all members of our society. Disability, in all its different forms, affects over 25% of the American population, and efforts to broaden accessibility help these people interact with aspects of society that are designed with only abled people in mind (Zhao). The strive for accessibility goes back to the early 1800s with the first United States school for the deaf in 1817 and the creation of the Braille language in 1829 (Zames), and yet scholars agree there is still much to be done in terms of accessibility that can help both the disabled community and others.  This project utilized ChatlyAI in order to frame these scholars’ ideas and potential plans for improved accessibility in various different spaces in an easy-to-view format. Ways to improve accessibility in healthcare (Doernberg), research strategies such as surveys and interviews (Miller), how disability interacts with social media (Södergren), and so much more could be accessed and taught to anyone through basic question prompts. Overall, this project poses the question of whether we are doing enough to make society more accessible, and attempts to frame an answer in an equally accessible way. 
+	
+	This digital project used online artificial intelligence-based chatbots in order to determine if the levels of disability 
+accommodations and general accessibility are sufficient for all members of our society. Disability, in all its different forms, affects 
+over 25% of the American population, and efforts to broaden accessibility help these people interact with aspects of society that are 
+designed with only abled people in mind (Zhao). The strive for accessibility goes back to the early 1800s with the first United States 
+school for the deaf in 1817 and the creation of the Braille language in 1829 (Zames), and yet scholars agree there is still much to be 
+done in terms of accessibility that can help both the disabled community and others.  This project utilized ChatlyAI in order to frame 
+these scholars’ ideas and potential plans for improved accessibility in various different spaces in an easy-to-view format. Ways to 
+improve accessibility in healthcare (Doernberg), research strategies such as surveys and interviews (Miller), how disability interacts 
+with social media (Södergren), and so much more could be accessed and taught to anyone through basic question prompts. Overall, this 
+project poses the question of whether we are doing enough to make society more accessible, and attempts to frame an answer in an equally 
+accessible way. 
 
 
 
