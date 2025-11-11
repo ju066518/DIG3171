@@ -42,7 +42,7 @@ accessible way.
 
 
 <p class="works-cited">
- /style Grewal, Lauren, and Helen van der Sluis. “Hidden Barriers to Marketplace Disability Accessibility: An Empirical Analysis of the Role of Perceived Trade-Offs.” Journal of Consumer Research, vol. 51, no. 1, 15 May 2024, pp. 66–78, https://doi.org/10.1093/jcr/ucad051. Accessed 21 Oct. 2025.
+ <style></style> Grewal, Lauren, and Helen van der Sluis. “Hidden Barriers to Marketplace Disability Accessibility: An Empirical Analysis of the Role of Perceived Trade-Offs.” Journal of Consumer Research, vol. 51, no. 1, 15 May 2024, pp. 66–78, https://doi.org/10.1093/jcr/ucad051. Accessed 21 Oct. 2025.
 </p>
 
 <p class="works-cited">
