@@ -56,29 +56,29 @@ accessible way.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Doernberg, Harry, et al. “Disability Education.” Journal of General Internal Medicine, vol. 39, no. 10, 20 May 2024, pp. 1920–1921, https://doi.org/10.1007/s11606-024-08792-w.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Several Authors. “Student Accessibility Services Orlando - Google Search.” Share.google, Google, 2025, share.google/wK3jHRSFDVv8a60Yg. Accessed 27 Oct. 2025.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Zames Fleischer, Doris, and Frieda Zames. The Disability Rights Movement: From Charity to Confrontation. E-book, Philadelphia, PA: Temple University Press, 2011, https://hdl.handle.net/2027/heb34616.0001.001.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  E. Andrews, Erin, et al. #SaytheWord: A Disability Culture Commentary on the Erasure of “Disability.” American Psychological Association, 2019, file:///C:/Users/jpamp/Downloads/disability.pdf. Accessed 28 Oct. 2025.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Cieza, Alarcos, et al. “Rethinking Disability.” BMC Medicine, vol. 16, no. 1, 26 Jan. 2018, bmcmedicine.biomedcentral.com/articles/10.1186/s12916-017-1002-6, https://doi.org/10.1186/s12916-017-1002-6.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Södergren, Jonatan, and Niklas Vallström. “Disability in Influencer Marketing: A Complex Model of Disability Representation.” Journal of Marketing Management, vol. 39, no. 11-12, 28 Nov. 2022, pp. 1–31, https://doi.org/10.1080/0267257x.2022.2144418.
 </p>
 
 <p class="works-cited">
-  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+  Johnston, Kenton J., et al. “Health Equity for Individuals with Intellectual and Developmental Disabilities.” JAMA, vol. 328, no. 16, 25 Oct. 2022, pp. 1587–1588, jamanetwork.com/journals/jama/fullarticle/2797393, https://doi.org/10.1001/jama.2022.18500.
 </p>
