@@ -29,12 +29,7 @@ accessible way.
 
 # Works Cited
 
-(add HTML code to do the hanging indentation, as seen below)
 
-
-
-<style> 
-	.works-cited { margin-left: 2em; text-indent: -2em; line-height: 1.5; } </style>
 
 
 <p class=".works-cited ">
