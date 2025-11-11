@@ -62,3 +62,23 @@ accessible way.
 <p class="works-cited">
   Lastname, Firstname. <em>Book Title</em>. Press, 2025.
 </p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
+
+<p class="works-cited">
+  Lastname, Firstname. <em>Book Title</em>. Press, 2025.
+</p>
