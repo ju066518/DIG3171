@@ -36,11 +36,11 @@ accessible way.
 <style> .works-cited { margin-left: 2em; text-indent: -2em; line-height: 1.5; } </style>
 
 
-<p class="works-cited">
+<p class=".works-cited">
 	Grewal, Lauren, and Helen van der Sluis. “Hidden Barriers to Marketplace Disability Accessibility: An Empirical Analysis of the Role of Perceived Trade-Offs.” Journal of Consumer Research, vol. 51, no. 1, 15 May 2024, pp. 66–78, https://doi.org/10.1093/jcr/ucad051. Accessed 21 Oct. 2025.
 </p>
 
-<p class="works-cited">
+<p class=".works-cited">
   Miller, A. “Accessibility, Disability, and Inclusive Instrument Design.” The International Journal of Information, Diversity, & Inclusion (IJIDI), vol. 9, no. 1/2, 22 May 2025, pp. 87–114, https://doi.org/10.33137/ijidi.v9i1/2.43997. Accessed 21 Oct. 2025.
 </p>
 
